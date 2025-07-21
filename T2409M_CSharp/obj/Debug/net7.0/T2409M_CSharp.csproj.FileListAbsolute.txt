@@ -1,0 +1,15 @@
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/bin/Debug/net7.0/T2409M_CSharp
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/bin/Debug/net7.0/T2409M_CSharp.deps.json
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/bin/Debug/net7.0/T2409M_CSharp.runtimeconfig.json
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/bin/Debug/net7.0/T2409M_CSharp.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/bin/Debug/net7.0/T2409M_CSharp.pdb
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/T2409M_CSharp.csproj.AssemblyReference.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/T2409M_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/T2409M_CSharp.AssemblyInfoInputs.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/T2409M_CSharp.AssemblyInfo.cs
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/T2409M_CSharp.csproj.CoreCompileInputs.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/T2409M_CSharp.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/refint/T2409M_CSharp.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/T2409M_CSharp.pdb
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/T2409M_CSharp.genruntimeconfig.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2409M/T2409M_CSharp/T2409M_CSharp/obj/Debug/net7.0/ref/T2409M_CSharp.dll

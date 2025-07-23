@@ -8,7 +8,6 @@ s.learn();
 s.learn("T2409M");
 s.name = "Đinh Lực";
 
-
 Teacher h = new Teacher();
 h.Name = "QUang Hoa";
 h.Address = "13 Trịnh Văn Bô";

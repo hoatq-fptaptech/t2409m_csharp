@@ -1,25 +1,28 @@
 ﻿<Properties StartupConfiguration="{ABB594BB-0020-4E5A-BFBC-1D2C333A4078}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.T2409M__CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="T2409M_CSharp/Program.cs">
     <Files>
-      <File FileName="T2409M_CSharp/Program.cs" Line="4" Column="1" />
+      <File FileName="T2409M_CSharp/session3/IStudent.cs" Line="10" Column="2" />
+      <File FileName="T2409M_CSharp/Program.cs" Line="16" Column="1" />
+      <File FileName="T2409M_CSharp/session3/MaleStudent.cs" Line="8" Column="13" />
+      <File FileName="T2409M_CSharp/session1/Teacher.cs" Line="7" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="T2409M_CSharp" expanded="True">
             <Node name="T2409M_CSharp" expanded="True">
-              <Node name="Dependencies" selected="True" />
+              <Node name="session1" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.T2409M__CSharp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
